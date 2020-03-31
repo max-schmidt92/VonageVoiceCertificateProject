@@ -9,7 +9,7 @@ To install this project, please perform the following steps:
 1. Clone or download the project (e.g. git clone https://github.com/max-schmidt92/VonageVoiceOnlineSessionCertificationProject.git)
 2. Open command prompt (or equivalent), change directory to the project's directory and type in "npm install".
    This will install all NodeJS packages necessary to run the project.
-3. Change API key, API Secret and utilise your own projects private.key (replace the existing in the same folder)
+3. Change API key, API Secret and utilise your own projects private.key (put it directly in the same folder)
 3. From the command prompt, type in "ngrok http 3000" or any port you like (if you use another port, change the variable in the Javascript file).
 4. Enter your Nexmo dashboard, access your project you would like to use and enter the ngrok url as shown in the red boxes below:
 
