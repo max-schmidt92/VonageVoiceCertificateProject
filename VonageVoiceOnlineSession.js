@@ -15,10 +15,10 @@ const expressWs = require('express-ws')(app);
  */
 const Nexmo = require('nexmo');
 const nexmo = new Nexmo({
-    apiKey: "a2ebafbe",
-    apiSecret: "bNFiOKYIGdk1Yaw6",
-    applicationId: "1e1b4d67-fd7f-488f-bc9e-fdbdccee0685",
-    privateKey: "private.key"
+    apiKey: "insert your API key here",
+    apiSecret: "insert your API secret here",
+    applicationId: "insert your application ID here",
+    privateKey: "private.key" // Will be loaded from the same directory as this project
 }, {debug: false}); // Leave debug: true to showcase all information.
 
 /**
