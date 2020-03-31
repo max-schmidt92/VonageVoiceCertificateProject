@@ -17,7 +17,7 @@ To install this project, please perform the following steps:
 
 4. Run or debug the project.
 
-I have left all the credentials in file itself to simplify the installation process.
+I have left all the credentials in file itself to simplify the installation process (except Nexmo credentials).
 The Microsoft services is the free trial service, which you can use as much as you like.
 The Teneo instance is our own internal instance for presales purposes.
 
